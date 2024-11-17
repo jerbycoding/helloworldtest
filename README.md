@@ -1,2 +1,0 @@
-"# Jerby-Git" 
-"# JERBYCODING" 
